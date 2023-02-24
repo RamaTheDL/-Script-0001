@@ -1,9 +1,15 @@
 return {
 	"I don’t know what makes you so dumb.", -- 1
 	"Is there an app I can download to make you disappear?", -- 2 
-	"Acting like a prick doesn’t make yours grow bigger.", -- 3
+	"Acting like a kid doesn’t make yours grow bigger.", -- 3
 	"Have you ever tried not being an dumb?", -- 4
 	"Are you at a loss for words, or did you exhaust your entire vocabulary?", -- 5
 	"Where is your off button?", -- 6
 	"I would call you an dumb, but it would be an insult for dumb people.", -- 7
+	"Eat Your Screen.", -- 8
+	"Stop Trying.", -- 9
+	"Eat your graphics card", -- 10
+	"I think you need to reconsider your actions.", -- 11
+	"EAT BLEACH CRACKERS NOOB.", -- 12
+	"Drink Windex out of your mom.", -- 13
 }
